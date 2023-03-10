@@ -1,0 +1,3 @@
+['remote "duncan-remote"']
+    url = ssh://robertjan@145.38.187.160:22/home/robertjan/test/test-dvc-remote
+    ask_password = true
